@@ -244,6 +244,7 @@ You can [contribute to this list by adding something you'd like to be packaged](
 | [ScenariChain-server](https://download.scenari.software/SCENARIchain-server/) |  |  |  |
 | [Schleuder](https://schleuder.org/schleuder/docs/concept.html) | A GPG-enabled mailing list manager |  |  |
 | scm-manager | Share and manage Git, Mercurial and Subversion repositories |  | [Package Draft](https://github.com/drfred1981/scm-manager_ynh) |
+| [Scoold](https://github.com/Erudika/scoold) | Stackwise Exchange like software |  |  |
 | scrumblr | Software for notes |  | [Package Draft](https://github.com/YunoHost-Apps/scrumblr_ynh) |
 | [Scuttlebutt Pub](https://www.scuttlebutt.nz/contributing) |  |  |  |
 | [seenthis](https://www.seenthis.net/) | Short-blogging destiné à la veille d’actualité |  | [Package Draft](https://github.com/magikcypress/seenthis_ynh) |
