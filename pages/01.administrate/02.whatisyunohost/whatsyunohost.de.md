@@ -40,7 +40,7 @@ Der Name **YunoHost** stammt aus dem Jargon "Y U NO Host". Das [Internet meme](h
 
 ## Was YunoHost nicht ist?
 
-Selbst wenn YunoHost mehrere Domains und mehrere Benutzer verwalten kann, ist es **nicht als ein mutualisiertes System gedacht**.
+Selbst wenn YunoHost mehrere Domains und mehrere Benutzer verwalten kann, ist es **nicht als ein gemeinschaftliches System gedacht**.
 
 Erstens ist die Software noch sehr jung, nicht auf ihre Skalierbarkeit getestet und daher wahrscheinlich nicht gut genug optimiert für Hunderte von Benutzern gleichzeitig. Vor diesem Hintergrund möchten wir die Software nicht in diese Richtung lenken. Die Virtualisierung demokratisiert sich und ihre Verwendung wird empfohlen, da sie eine wasserdichtere Methode zur Erzielung von Gegenseitigkeit darstellt als ein "Full-Stack"-System wie YunoHost.
 
