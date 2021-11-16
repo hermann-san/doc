@@ -27,17 +27,16 @@ Wenn du Zuhause installierst (z.B. auf einem Raspberry Pi oder OLinuXino), dann 
 - Prüfe die angezeigten Geräte in der Benutzeroberfläche deines Routers, ob du das Gerät findest;
 - Schließe einen Bildschirm und Tastatur an deinen Server, logge dich ein und tippe `hostname --all-ip-address`.
 
-#### Connect
+#### Verbinden
 
-Assuming your IP address is `111.222.333.444`, open a terminal and enter :
-
+Angenommen deine IP Adresse ist `111.222.333.444`, öffne eine Konsole und schreibe:
 ```bash
 ssh root@111.222.333.444
 ```
 
-A password will be asked. If this is a VPS, your VPS provided should have communicated you the password. If you used a pre-installed image (for x86 computer or ARM board), the password should be `yunohost`.
+Ein Passwort wird abgefragt. Wenn du einen VPS hast, hat dein VPS Anbieter dir das Passwort bereitgestellt. Wenn du ein vorinstalliertes Image benutzt (für x86 Computer oder ARM Board), sollte das Passwort `yunohost` sein.
 
-! Since YunoHost 3.4, after running the postinstallation, you won't be able to login as `root` anymore. Instead, **you should login using the `admin` user !** In the event that the LDAP server is broken and the `admin` user is unusable, you may still however still be able to login using `root` from the local network.
+! Seit YunoHOst 3.4, nach dem Post Installation gelaufen ist, wirst du dich nicht mehr als root anmelden können. Stattdessen **solltest du dich mit dem `admin` User anmelden !** Für dem Fall das der LDAP server defekt ist und der `admin` User nicht benutzbar ist, kannst du dich immer noch mit dem `root` user über das lokale Netzwerk anmelden.
 
 #### Change the password!
 
