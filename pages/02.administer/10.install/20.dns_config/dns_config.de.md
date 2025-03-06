@@ -22,8 +22,8 @@ Domain über die Schnittstelle Ihres Registrars konfigurieren.
 
 YunoHost bietet eine empfohlene DNS-Konfiguration, die auf zwei Arten zugänglich ist :
 
-- mit dem Webadmin, unter Domänen > your.domain.tld > DNS-Konfiguration ;
-- oder auf der Kommandozeile  `yunohost domain dns-conf your.domain.tld`
+- mit dem Webadmin, unter Domänen > your.domain.tld-Konfiguration ;
+- oder auf der Kommandozeile  `yunohost domain config set your.domain.tld`
 
 Für einige spezielle Anforderungen oder Installationen und wenn Sie wissen,
 was Sie tun, müssen Sie diese Empfehlung möglicherweise ändern oder
